@@ -4,6 +4,7 @@
 **skpaik/skpaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on `W3 Engineers Ltd`
 - 🌱 I’m currently learning `django`
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: `skpaik@outlook.com`
 - 😄 Pronouns: `Suudeepto`
 - ⚡ Fun fact: `I am a BadBoy..:P`
--->
+

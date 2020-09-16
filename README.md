@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: `Suudeepto`
 - ⚡ Fun fact: `I am a BadBoy..:P`
 
+
+![skpaik's github stats](https://github-readme-stats.vercel.app/api?username=skpaik&show_icons=true&hide_border=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skpaik&show_icons=true&hide_border=true)](https://github.com/skpaik)

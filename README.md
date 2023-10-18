@@ -18,7 +18,6 @@
 
 - 📫 How to reach me **skpaik@outlook.com**
 
-- ⚡ Fun fact **I am a BadBoy..:P**
 
 ### Blogs posts
 

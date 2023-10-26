@@ -35,11 +35,11 @@ Here's a glimpse of what you can find in my repository:
 - Email: sdiptapaik@gmail.com
 
 ### 📊 GitHub Stats
-![skpaik GitHub Stats](https://github-readme-stats.vercel.app/api?username=skpaik&show_icons=true)
+![skpaik GitHub Stats](https://github-readme-stats.vercel.app/api?username=skpaik&theme=github-light&show_icons=true)
 
-[![skpaik GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skpaik&theme=vue&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![skpaik GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skpaik&theme=github-light&date_format=j%20M%5B%20Y%5D&card_width=467)](https://git.io/streak-stats)
 
-![skpaik's Top GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skpaik&theme=macos&show_icons=true&hide_border=true&layout=compact)
+![skpaik's Top GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skpaik&theme=github-light&show_icons=true&hide_border=true&layout=compact)
 
 ### 🤝 Let's Connect
 Feel free to connect and collaborate with me on exciting projects!

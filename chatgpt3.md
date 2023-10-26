@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sudipta
+# 👋 Hello, Nice to see you.
 
 ## 🚀 Full-Stack Developer | 💻 Tech Enthusiast | 🌐 Open Source Contributor
 
@@ -14,8 +14,10 @@ Here's a glimpse of what you can find in my repository:
 - **Other:** Git, REST APIs, GraphQL
 
 ### 💼 Work
-- Full-Stack Developer at [TBSCG](https://tbscg.com)
-- [jeda.ai](https://jeda.ai): Generative AI White board Sketching Tool.
+- Java/AWS Developer at [TBSCG](https://tbscg.com)
+- Tech Lead at [Traaal Tourism](https://traaal.com)
+- Senior Software Engineer at [W3 Engineers Ltd](https://w3engineers.com)
+- [More](https://www.linkedin.com/in/skpaik/details/experience)
 
 ### 🌱 I’m Currently Learning
 - Spring Boot
@@ -27,6 +29,8 @@ Here's a glimpse of what you can find in my repository:
 2. [idorsia.com](https://www.idorsia.com): Magnolia CMS Based Health sector Website
 3. [baronfleet.com](https://baronfleet.com): Luxury fleet Management application
 4. [rentbyowner.com](https://rentbyowner.com): Travel website
+5. [jeda.ai](https://jeda.ai): Generative AI White board Sketching Tool.
+6. [More](https://www.linkedin.com/in/skpaik/details/projects)
 
 ### 📫 How to Reach Me
 - LinkedIn: [@skpaik](https://www.linkedin.com/in/skpaik)
@@ -54,7 +58,6 @@ Feel free to connect and collaborate with me on exciting projects!
 <a href="https://instagram.com/skpaik" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="skpaik" height="30" width="40" /></a>
 <a href="https://dribbble.com/skpaik" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="skpaik" height="30" width="40" /></a>
 <a href="https://medium.com/@skpaik" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@skpaik" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/skpaik" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="skpaik" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/skpaik" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="skpaik" height="30" width="40" /></a>
 
 ---

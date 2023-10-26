@@ -35,7 +35,6 @@ Here's a glimpse of what you can find in my repository:
 ### 📫 How to Reach Me
 - LinkedIn: [@skpaik](https://www.linkedin.com/in/skpaik)
 - Twitter: [@skpaik](https://twitter.com/skpaik)
-- Facebook: [@skpaik](https://facebook.com/skpaik)
 - Email: sdiptapaik@gmail.com
 
 ### 📊 GitHub Stats

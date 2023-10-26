@@ -37,7 +37,7 @@ Here's a glimpse of what you can find in my repository:
 ### 📊 GitHub Stats
 ![skpaik GitHub Stats](https://github-readme-stats.vercel.app/api?username=skpaik&theme=github-light&show_icons=true)
 
-[![skpaik GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skpaik&theme=github-light&date_format=j%20M%5B%20Y%5D&card_width=467)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=skpaik&theme=ayu-light&date_format=j%20M%5B%20Y%5D&card_width=467)
 
 ![skpaik's Top GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skpaik&theme=github-light&show_icons=true&hide_border=true&layout=compact)
 

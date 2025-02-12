@@ -2,27 +2,32 @@
 
 ## 🚀 Full Stack Developer | 💻 Tech Enthusiast | 🌐 Open Source Contributor
 
-AWS Certified | 13+ Years in Software Development | JAVA | SpringBoot | Python (Django, flask) | ExpressJs | TypeScript | AWS Serverless
+AWS Certified | 14+ Years in Software Development | JAVA | SpringBoot | Python (Django, flask) | ExpressJs | TypeScript | AWS Serverless
 
 **I'm open to Remote Work and employment opportunities**
 
 Here's more what you can find in my repository:
 
 ### 🛠️ Skills
-- **Frontend:** HTML, CSS, JavaScript, React, Vue.js, Next.js, Nuxt.js
-- **Backend:** Node.js, Express, Python, Flask, Django, DRF, Java, Magnolia CMS
-- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Frontend:** ReactJs, React Native, NextJs, VueJs, NuxtJs, HTML, TailwindCSS and Bootstrap CSS
+- **Backend:** TypeScript, Node.js, ExpressJs, Python, Flask, Django, DRF, Java, Magnolia CMS, and AWS Lambda
+- **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redis
+- **Cloud:** AWS S3, Cognito, CDK, EC2, Fargate, Textract, SQS, IAM, Route53, API Gateway, GKE, GCP, Kubernetes, Firebase
 - **DevOps:** Docker, AWS, Terraform, GitHub Actions, CI/CD
 - **Other:** Git, REST APIs, GraphQL
 
 
 ### 💼 Work
+- Senior Enginer at [PolyAPI](https://polyapi.io)
 - Java/AWS Developer at [TBSCG](https://tbscg.com)
 - Tech Lead at [Traaal Tourism](https://traaal.com)
 - Senior Software Engineer at [W3 Engineers Ltd](https://w3engineers.com)
 - [More](https://www.linkedin.com/in/skpaik/details/experience)
 
+
+
 ### 🌱 I’m Currently Learning
+- 
 - Spring Boot
 - Kubernetes
 - AngularJs

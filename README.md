@@ -2,15 +2,15 @@
 
 ## 🚀 Full Stack Developer | 💻 Tech Enthusiast | 🌐 Open Source Contributor
 
-AWS Certified | 14+ Years in Software Development | JAVA | SpringBoot | Python (Django, flask) | ExpressJs | TypeScript | AWS Serverless
+AWS Certified | 14+ Years in Software Development | JAVA | SpringBoot | FastAPI, Django, flask | NestJs | TypeScript | NextJs | AWS Lambda
 
 **I'm open to Remote Work and employment opportunities**
 
 Here's more what you can find in my repository:
 
 ### 🛠️ Skills
-- **Frontend:** ReactJs, React Native, NextJs, VueJs, NuxtJs, HTML, TailwindCSS and Bootstrap CSS
-- **Backend:** TypeScript, Node.js, ExpressJs, Python, Flask, Django, DRF, Java, Magnolia CMS, and AWS Lambda
+- **Frontend:** ReactJs, React Native (Expo), NextJs, VueJs, NuxtJs, HTML, TailwindCSS and Bootstrap CSS
+- **Backend:** TypeScript, Node.js, ExpressJs, NestJs, Python, FastAPI, Flask, Django, DRF, Java, Magnolia CMS, and AWS Lambda
 - **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redis
 - **Cloud:** AWS S3, Cognito, CDK, EC2, Fargate, Textract, SQS, IAM, Route53, API Gateway, GKE, GCP, Kubernetes, Firebase
 - **DevOps:** Docker, AWS, Terraform, GitHub Actions, CI/CD
@@ -27,18 +27,18 @@ Here's more what you can find in my repository:
 
 
 ### 🌱 I’m Currently Learning
-- 
 - Spring Boot
 - Kubernetes
-- AngularJs
+- React Native (Expo)
 
 ### 📂 My Projects
-1. [bobcat.com](http://bobcat.com): Magnolia CMS Based Ecommerce Website
-2. [idorsia.com](https://www.idorsia.com): Magnolia CMS Based Health sector Website
-3. [baronfleet.com](https://baronfleet.com): Luxury fleet Management application
-4. [rentbyowner.com](https://rentbyowner.com): Travel website
-5. [jeda.ai](https://jeda.ai): Generative AI White board Sketching Tool.
-6. [More](https://www.linkedin.com/in/skpaik/details/projects)
+- [PolyAPI.io](https://polyapi.io): Modern Enterprise Middleware is Here!
+- [bobcat.com](https://bobcat.com): Magnolia CMS Based Ecommerce Website
+- [idorsia.com](https://www.idorsia.com): Magnolia CMS Based Health sector Website
+- [baronfleet.com](https://baronfleet.com): Luxury fleet Management application
+- [rentbyowner.com](https://rentbyowner.com): Travel website
+- [jeda.ai](https://jeda.ai): Generative AI White board Sketching Tool.
+- [More](https://www.linkedin.com/in/skpaik/details/projects)
 
 ### 📫 How to Reach Me
 - LinkedIn: [@skpaik](https://www.linkedin.com/in/skpaik)
@@ -54,8 +54,6 @@ Here's more what you can find in my repository:
 
 ### 🤝 Let's Connect
 Feel free to connect and collaborate with me on exciting projects!
-
-
 
 
 

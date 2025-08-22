@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I'm a passionate software engineer with over **14 years of professional experience** in designing, developing, and deploying robust, scalable, and secure applications. My strengths lie in **Full Stack Web Development**, **Cloud-Native Architecture**, and **AI-Augmented Workflows** using modern frameworks and tools.
+I'm a passionate software engineer with over **15 years of professional experience** in designing, developing, and deploying robust, scalable, and secure applications. My strengths lie in **Full Stack Web Development**, **Cloud-Native Architecture**, and **AI-Augmented Workflows** using modern frameworks and tools.
 
 🔐 Experienced in building **privacy-first applications** (GDPR, HIPAA, PIPEDA)  
 🧪 Strong background in **CI/CD automation** and **TDD**  
